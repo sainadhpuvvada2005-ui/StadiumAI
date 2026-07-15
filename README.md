@@ -113,7 +113,7 @@ This project is open source. See LICENSE file for details.
 ## Support & Contact
 
 - **Issues**: Report bugs or request features via GitHub Issues
-- **Email**: admin@stadiumai.example
+- **Email**: sainadhpuvvada2005@gmail.com
 - **Documentation**: See `GITHUB_SETUP.md` for repository setup instructions
 
 ## Acknowledgments
